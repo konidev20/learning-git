@@ -9,7 +9,7 @@
 - While choosing your editor, select your preferred IDE and click next.
 - Feel Free to install any other options than the selected default options
 
-## **Setting up Git-Bash:**
+# **Setting up Git-Bash:**
 
 ![image](https://user-images.githubusercontent.com/55577773/161759800-3a3f808d-50f5-47d1-80c0-638580c68ec8.png)
 

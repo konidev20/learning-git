@@ -23,9 +23,9 @@ A Git project will have the following main sections:
 **Working Directory**
 The **working directory** is where a user makes local changes to a project. The working directory pulls the project’s files from the Git directory’s object database and places them on the user’s local machine.
 If you consider a file in your Working Directory, it can be in three possible state.
-•	It can be **staged**. This means the files with the updated changes are marked to be committed to the local repository but not yet committed.
-•	It can be **modified**. This means the files with the updated changes are not yet stored in the local repository.
-•	It can be **committed**. This means that the changes you made to your file are safely stored in the local repository.
+* It can be **staged**. This means the files with the updated changes are marked to be committed to the local repository but not yet committed.
+* It can be **modified**. This means the files with the updated changes are not yet stored in the local repository.
+* It can be **committed**. This means that the changes you made to your file are safely stored in the local repository.
 
 **Staging Directory**
 The **staging area** is a file (also called the “index”, “stage”, or “cache”) that stores information about what will go into your next commit. A commit is when you tell Git to save these staged changes. Git takes a snapshot of the files as they are and permanently stores that snapshot in the Git directory.
